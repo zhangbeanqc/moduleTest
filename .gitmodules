@@ -1,3 +1,6 @@
 [submodule "submarines"]
 	path = submarines
 	url = ./submarines
+[submodule "rubber-band"]
+	path = rubber-band
+	url = https://github.com/zhangbeanqc/moduleTest
